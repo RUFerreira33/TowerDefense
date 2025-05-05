@@ -1,0 +1,26 @@
+# Unity folders to ignore
+[Libraries to ignore]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+.idea/
+
+# Auto-generated
+Generated*/ 
